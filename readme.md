@@ -22,7 +22,7 @@ This repository contains **hundreds of examples and exercises** covering a wide 
   - Logistic Regression
   - Principal Component Analysis
 - **Deep Learning**
-  - Multi-Layer Perceptron calssification and regression examples 
+  - Multi-Layer Perceptron classification and regression examples 
   - Examples using `tensorflow` and related frameworks
 
 ---
